@@ -138,6 +138,7 @@ h6 {
 
   #page_home header a {
     position: absolute;
+    margin-top: 40px;
     bottom: 40px;
     left: 50%;
     transform: translateX(-50%);
